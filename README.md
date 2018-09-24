@@ -1,4 +1,4 @@
-# Black-Friday_Hackaton
+# Black-Friday-Hackaton
 This is my approach on Analytics Vidhya Black Friday hackathon. <a href = "https://medium.com/diogo-menezes-borges/project-3-analytics-vidhya-hackaton-black-friday-f6c6bf3da86f">Here</a> you can find a complete step-by-step analysis on the issue as well as my Python code and conclusions.
 
 Introduction
